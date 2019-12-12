@@ -1,4 +1,4 @@
 # Interview_Challenges
-Question from interviews
+Questions from interviews
 
 Each notebook holds a coding challenge. Have fun!
